@@ -1,7 +1,6 @@
 # Domain for YGOProDeck's Playtest Tool
-Enhance the YGOProDeck's Playtest Tool to support the use of Deck Masters for Domain Format.
+Extension to enhance the YGOProDeck's Playtest Tool to support the use of Deck Masters for Domain Format. Built with Manifest v3 and basic Javascript.\
 Want to know more about the format? Please visit their [site](https://www.domainformat.com/).
-> Chrome/Edge extension built with Manifest v3 and basic Javascript.
 
 ## Installing (For Users)
 TBA
