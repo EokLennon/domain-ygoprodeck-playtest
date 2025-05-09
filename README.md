@@ -4,7 +4,11 @@ Extension to enhance the YGOProDeck's Playtest Tool to support the use of Deck M
 Want to know more about the format? Please visit their [site](https://www.domainformat.com/).
 
 ## Installing (For Users)
-TBA
+1. Download repository as a ZIP file
+2. Set your Chrome browser 'Developer mode' up
+3. Click 'Load unpacked' and select the extension folder
+
+We're working to publish this in the Chrome Web Store and Edge Addons ASAP.
 
 ## How it works
 1. Go to any Domain Format deck in YGOProDeck website 
@@ -13,5 +17,6 @@ TBA
 4. Move your Deck Master to the field and enjoy!
 
 ## Installing (For Developers)
-1. Set your Chrome browser 'Developer mode' up.
-2. Click 'Load unpacked' and select the extension folder.
+1. Clone the repository
+1. Set your Chrome browser 'Developer mode' up
+2. Click 'Load unpacked' and select the extension folder
